@@ -18,7 +18,7 @@ from requests.packages.urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 logsukses = "success.txt"
-logfail = "failes.txt"
+logfail = "failed.txt"
 
 bener = "\033[32;1m[+]\033[0m "
 salah = "\033[31;1m[-]\033[0m "

@@ -1,4 +1,4 @@
-![wpshell](ichigokpng "androxgh0st")
+![wpshell](ichigo.png "androxgh0st")
 
 
 # Wordpress Shell Uploader

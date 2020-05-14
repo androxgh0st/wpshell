@@ -1,4 +1,7 @@
-# wpshell
+![wpshell](ichigokpng "androxgh0st")
+
+
+# Wordpress Shell Uploader
 Auto Upload Shell After Auto Edit User
 
 ## How run
